@@ -1,11 +1,4 @@
-echom "Hello World" 
-set number
-set relativenumber
-
-filetype plugin indent on
-set expandtab
-set shiftwidth=4
-set softtabstop=4
-set tabstop=4
-set smartindent
-
+echom "Hello SilverfangONE"
+source ~/vim_config/options.vim 
+source ~/vim_config/keybinds.vim 
+source ~/vim_config/plugins.vim 
