@@ -5,3 +5,4 @@ source ~/vim_config/plugins.vim
 source ~/vim_config/colors.vim 
 source ~/vim_config/fzf.vim 
 source ~/vim_config/lsp.vim 
+source ~/vim_config/gdb.vim 

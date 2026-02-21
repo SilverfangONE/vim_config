@@ -19,3 +19,7 @@ call s:ensure('junegunn/fzf')
 call s:ensure('junegunn/fzf.vim')
 call s:ensure('itchyny/lightline.vim')
 call s:ensure('yegappan/lsp')
+call s:ensure('rust-lang/rust.vim')
+call s:ensure('tpope/vim-dispatch')
+
+packadd termdebug
